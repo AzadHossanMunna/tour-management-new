@@ -72,7 +72,7 @@ process.on("uncaughtException", (err) => {
     process.exit(1)
 })
 
-// Unhandled rejection error
+// Unhandler rejection error
 // Promise.reject(new Error("I forgot to catch this promise"))
 
 // Uncaught Exception Error
